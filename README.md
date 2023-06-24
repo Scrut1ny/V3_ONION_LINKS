@@ -2,6 +2,10 @@
     Tor66 - tor66sewebgixwhcqfnp5inzp5x5uohhdy3kvtnyfxc2e5mxiuh34iid.onion
     Torch - torchdeedp3i2jigzjdmfpn5ttjhthh5wbmda2rr3jvqjg5p77c54dqd.onion
     Onion Index - oniondxjxs2mzjkbz7ldlflenh6huksestjsisc3usxht3wqgk6a62yd.onion
+    Phobos - phobosxilamwcg75xt22id7aywkzol6q6rfl2flipcqoc4e4ahima5id.onion
+
+### Wiki
+    HD Wiki - 76em3dhjdguz4jzrmmzkpyd2x2nh5reysd4r4uqeu6dne6d3lfpbqcyd.onion
 
 ### Forums
     Dread - dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion
@@ -9,6 +13,9 @@
 
 ### Marketplace
     VENUS - ly75dbzixy7hlp663j32xo4dtoiikm6bxb53jvivqkpo6jwppptx3sad.onion
+    easyCARDS - ey5vnaqs6xyr4ifbyqz7tj7gojldb2euwndivu52ltfx5bpkc7sh5eyd.onion
+    netauth - epaaktshb3mw46jrkeltbifjcqd5fpuiet2ckrmx3n75ybrmfth47had.onion
+    Imperial - kaedxm5lp4fp35mtnwapn6gkdln4434i3pk2rdg4a6eluksra2q4gaqd.onion
 
 ### Email Provider
     DNMX - hxuzjtocnzvv5g2rtg2bhwkcbupmk7rclb6lly3fo4tvqkk5oyrv3nid.onion
