@@ -7,6 +7,12 @@
     Dread - dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion
     Raddle - c32zjeghcp5tj3kb72pltz56piei66drc63vkhn5yixiyk4cmerrjtid.onion
 
+### Marketplace
+VENUS - ly75dbzixy7hlp663j32xo4dtoiikm6bxb53jvivqkpo6jwppptx3sad.onion
+
+### Email Provider
+DNMX - hxuzjtocnzvv5g2rtg2bhwkcbupmk7rclb6lly3fo4tvqkk5oyrv3nid.onion
+
 ### Illicit Stuff
     Cracking Island - cisland46psf56panbm2japxoxeguqekmataim54kn2ysucnk3yo7eyd.onion
     The Pirate Bay - piratebayo3klnzokct3wt5yyxb2vpebbuyjl7m623iaxmqhsd52coid.onion
