@@ -15,10 +15,10 @@
 ### Markets
     ASAP Market - asap2u4pvplnkzl7ecle45wajojnftja45wvovl3jrvhangeyq67ziid.onion
                 - asap4u7rq4tyakf5gdahmj2c77blwc4noxnsppp5lzlhk7x34x2e22yd.onion
-                - asap4u2ihsunfdsumm66pmado3mt3lemdiu3fbx5b7wj5hb3xpgmwkqd.onion 
+                - asap4u2ihsunfdsumm66pmado3mt3lemdiu3fbx5b7wj5hb3xpgmwkqd.onion
+
     Archetyp Market - 4pt4axjgzmm4ibmxplfiuvopxzf775e5bqseyllafcecryfthdupjwyd.onion
     Incognito Market - incognito2sjotqmbkys7wivkpq7d4a4tkpweoiqefk7mpf7uvyfalad.onion
-
     VENUS - ly75dbzixy7hlp663j32xo4dtoiikm6bxb53jvivqkpo6jwppptx3sad.onion
     easyCARDS - ey5vnaqs6xyr4ifbyqz7tj7gojldb2euwndivu52ltfx5bpkc7sh5eyd.onion
     netauth - epaaktshb3mw46jrkeltbifjcqd5fpuiet2ckrmx3n75ybrmfth47had.onion
@@ -31,6 +31,7 @@
     Cracking Island - cisland46psf56panbm2japxoxeguqekmataim54kn2ysucnk3yo7eyd.onion
     The Pirate Bay - piratebayo3klnzokct3wt5yyxb2vpebbuyjl7m623iaxmqhsd52coid.onion
     Breached Forums (SEIZED) - breached65xqh64s7xbkvqgg7bmj4nj7656hcb7x4g42x753r7zmejqd.onion
+    Distributed Denial of Secrets - ddosxlvzzow7scc7egy75gpke54hgbg2frahxzaw6qq5osnzm7wistid.onion
 
 ### Porn
     Pornhub (DOWN) - pornhubvybmsymdol4iibwgwtkpwmeyd6luq2gxajgjzfjvotyt5zhyd.onion
