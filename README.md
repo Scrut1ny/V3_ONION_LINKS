@@ -13,9 +13,8 @@
     Libre - libreeunomyly6ot7kspglmbd5cvlkogib6rozy43r2glatc6rmwauqd.onion
 
 ### Markets
-    ASAP Market - asap2u4pvplnkzl7ecle45wajojnftja45wvovl3jrvhangeyq67ziid.onion
-                - asap4u7rq4tyakf5gdahmj2c77blwc4noxnsppp5lzlhk7x34x2e22yd.onion
-                - asap4u2ihsunfdsumm66pmado3mt3lemdiu3fbx5b7wj5hb3xpgmwkqd.onion
+    ASAP Market - asap4u7rq4tyakf5gdahmj2c77blwc4noxnsppp5lzlhk7x34x2e22yd.onion
+                - asap4u2ihsunfdsumm66pmado3mt3lemdiu3fbx5b7wj5hb3xpgmwkqd.onion 
 
     Archetyp Market - 4pt4axjgzmm4ibmxplfiuvopxzf775e5bqseyllafcecryfthdupjwyd.onion
     Incognito Market - incognito2sjotqmbkys7wivkpq7d4a4tkpweoiqefk7mpf7uvyfalad.onion
