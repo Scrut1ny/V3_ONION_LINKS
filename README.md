@@ -26,6 +26,9 @@
 ### Email Provider
     DNMX - hxuzjtocnzvv5g2rtg2bhwkcbupmk7rclb6lly3fo4tvqkk5oyrv3nid.onion
 
+### Fake Information
+    ElfQrin - elfqv3zjfegus3bgg5d7pv62eqght4h6sl6yjjhe7kjpi2s56bzgk2yd.onion
+
 ### Illicit Stuff
     Cracking Island - cisland46psf56panbm2japxoxeguqekmataim54kn2ysucnk3yo7eyd.onion
     The Pirate Bay - piratebayo3klnzokct3wt5yyxb2vpebbuyjl7m623iaxmqhsd52coid.onion
