@@ -17,14 +17,34 @@
     DNM Bible - biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion
 
 ### Markets
-    Cypher - 
-    Archetyp Market - 4pt4axjgzmm4ibmxplfiuvopxzf775e5bqseyllafcecryfthdupjwyd.onion
-                    - arche3nwiybktin6y3xlub4spojx3r5cvrql2sgpulwyda6ws6tujnad.onion
-    Incognito - 
-    Bohemia - 
-    Abacus - 
-    Kingdom - 
-    Dark Matter - 
+    - Cypher
+    
+    - Archetyp Market
+        - Market: 4pt4axjgzmm4ibmxplfiuvopxzf775e5bqseyllafcecryfthdupjwyd.onion
+        - Backup: arche3nwiybktin6y3xlub4spojx3r5cvrql2sgpulwyda6ws6tujnad.onion
+    
+    - Incognito ()
+    
+    - Bohemia (BTC, XMR)
+        - Market: bohemiaobko4cecexkj5xmlaove6yn726dstp5wfw4pojjwp6762paqd.onion
+        - Alt: bohemiaobbpsjvkexpdpnekqai2ebi32xgr6sbhdpapipv547rm6jhad.onion
+    
+    - Abacus (BTC, XMR)
+        - Market: abacuseeettcn3n2zxo7tqy5vsxhqpha2jtjqs7cgdjzl2jascr4liad.onion
+        - Market Forum: abacusforafuhyaebalelwh3c2rojzjjkf7n2ubaxiaws5mxlcqjmdid.onion
+    
+    - Kingdom (BTC, XMR, LTC, ZEC)
+        - Market: kingdomm7v6yed55o2rbspvs4exn5bzfxdizqaav27tw6gw4zc65vdad.onion
+        - Market: kingdom2w4iehz343lwwh47hoendronqwsu2yt5jim6ygs4oagcmb5id.onion
+        - Market: kingdom337gv2auzxr2a4e5ni2lbp2lnnukabtvt3kkqkjnptckfxhad.onion
+        - Market: kingdom4it4wzkkud2p2esvashyynvmsrbyuk4qh2bnyvcnoafyvoiyd.onion
+        - Market: kingdom5bb43gc5umrviiwbicomgrma57jcmxm5uinjnfmegepbhmrad.onion
+        - Market: kingdom6txlkrt7wba5r4lfiimfvueyzxnjfpmzutb4fqoxr6qaxajyd.onion
+        - Market I2P: kngdmbfjfb4ry5jjn7mqphi3pzzxc37bro5gpcitcpmt5piflpva.b32.i2p
+        - Market I2P: kngdm77i2e4o2dl7tchkhx4qtrwcjfuchf322i62fragbtvlpuea.b32.i2p
+    
+    - Dark Matter (BTC, BCH, XMR)
+        - darkmat3kdxestusl437urshpsravq7oqb7t3m36u2l62vnmmldzdmid.onion
 
 ### Email Provider
     DNMX - hxuzjtocnzvv5g2rtg2bhwkcbupmk7rclb6lly3fo4tvqkk5oyrv3nid.onion
