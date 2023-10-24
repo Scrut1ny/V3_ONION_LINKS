@@ -9,19 +9,22 @@
 
 ### Forums
     Dread - dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion
+          - g66ol3eb5ujdckzqqfmjsbpdjufmjd5nsgdipvxmsh7rckzlhywlzlqd.onion
     Raddle - c32zjeghcp5tj3kb72pltz56piei66drc63vkhn5yixiyk4cmerrjtid.onion
     Libre - libreeunomyly6ot7kspglmbd5cvlkogib6rozy43r2glatc6rmwauqd.onion
 
-### Markets
-    ASAP Market - asap4u7rq4tyakf5gdahmj2c77blwc4noxnsppp5lzlhk7x34x2e22yd.onion
-                - asap4u2ihsunfdsumm66pmado3mt3lemdiu3fbx5b7wj5hb3xpgmwkqd.onion 
+### DNM Bible
+    DNM Bible - biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion
 
+### Markets
+    Cypher - 
     Archetyp Market - 4pt4axjgzmm4ibmxplfiuvopxzf775e5bqseyllafcecryfthdupjwyd.onion
-    Incognito Market - incognito2sjotqmbkys7wivkpq7d4a4tkpweoiqefk7mpf7uvyfalad.onion
-    VENUS - ly75dbzixy7hlp663j32xo4dtoiikm6bxb53jvivqkpo6jwppptx3sad.onion
-    easyCARDS - ey5vnaqs6xyr4ifbyqz7tj7gojldb2euwndivu52ltfx5bpkc7sh5eyd.onion
-    netauth - epaaktshb3mw46jrkeltbifjcqd5fpuiet2ckrmx3n75ybrmfth47had.onion
-    Imperial - kaedxm5lp4fp35mtnwapn6gkdln4434i3pk2rdg4a6eluksra2q4gaqd.onion
+                    - arche3nwiybktin6y3xlub4spojx3r5cvrql2sgpulwyda6ws6tujnad.onion
+    Incognito - 
+    Bohemia - 
+    Abacus - 
+    Kingdom - 
+    Dark Matter - 
 
 ### Email Provider
     DNMX - hxuzjtocnzvv5g2rtg2bhwkcbupmk7rclb6lly3fo4tvqkk5oyrv3nid.onion
