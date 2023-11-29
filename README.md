@@ -48,6 +48,8 @@
 
 ### Email Provider
     DNMX - hxuzjtocnzvv5g2rtg2bhwkcbupmk7rclb6lly3fo4tvqkk5oyrv3nid.onion
+    Mail2Tor - qi6cfd5srtv4wnrgbj7b6bvpgims6yyhid5vznr3qprw44cwbgr2tzyd.onion
+    [TorBox] - torbox36ijlcevujx7mjb4oiusvwgvmue7jfn2cvutwa6kl6to3uyqad.onion
 
 ### Fake Information
     ElfQrin - elfqv3zjfegus3bgg5d7pv62eqght4h6sl6yjjhe7kjpi2s56bzgk2yd.onion
