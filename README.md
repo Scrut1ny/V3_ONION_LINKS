@@ -23,8 +23,6 @@
         - Market: 4pt4axjgzmm4ibmxplfiuvopxzf775e5bqseyllafcecryfthdupjwyd.onion
         - Backup: arche3nwiybktin6y3xlub4spojx3r5cvrql2sgpulwyda6ws6tujnad.onion
     
-    - Incognito ()
-    
     - Bohemia (BTC, XMR)
         - Market: bohemiaobko4cecexkj5xmlaove6yn726dstp5wfw4pojjwp6762paqd.onion
         - Alt: bohemiaobbpsjvkexpdpnekqai2ebi32xgr6sbhdpapipv547rm6jhad.onion
