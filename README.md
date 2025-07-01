@@ -1,5 +1,8 @@
 # Clear Web
 
+## Torrenting
+- [https://yts.mx/](https://yts.mx/)
+- [https://1337x.to/](https://1337x.to/)
 
 
 
