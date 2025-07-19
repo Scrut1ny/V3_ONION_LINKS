@@ -10,6 +10,9 @@
   - [YTS.AG](https://yts.ag/)
   - [YTS Proxies](https://ytsproxies.com/)
 - [1337X](https://1337x.to/)
+- [Nyaa](https://nyaa.si/)
+- [TorrentGalaxy](https://torrentgalaxy.to/)
+- [The Pirate Bay](https://thepiratebay.org/index.html)
 
 </details>
 
