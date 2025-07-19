@@ -5,6 +5,11 @@
 
 ## Torrenting
 - [https://yts.mx/](https://yts.mx/)
+  - [https://yts.lt/](https://yts.lt/)
+  - [https://yts.am/](https://yts.am/)
+  - [https://yts.ag/](https://yts.ag/)
+  - [https://yifystatus.com/](https://yifystatus.com/)
+  - [https://ytsproxies.com/](https://ytsproxies.com/)
 - [https://1337x.to/](https://1337x.to/)
 
 </details>
@@ -22,6 +27,9 @@
 
 ## Wiki
 - Trust Wiki - http://wiki6dtqpuvwtc5hopuj33eeavwa6sik7sy57cor35chkx5nrbmmolqd.onion/
+
+## Torrenting
+- YTS YIFY - http://ytsyifyupcmxftncrnqd4bmwxvhlibhdat74w6xnmn33njxts4eeaiqd.onion/
 
 ## Miscellaneous
 - ElfQrin - http://elfqv3zjfegus3bgg5d7pv62eqght4h6sl6yjjhe7kjpi2s56bzgk2yd.onion/
