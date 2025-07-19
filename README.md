@@ -4,13 +4,12 @@
 <summary>Expand for links...</summary>
 
 ## Torrenting
-- [https://yts.mx/](https://yts.mx/)
-  - [https://yts.lt/](https://yts.lt/)
-  - [https://yts.am/](https://yts.am/)
-  - [https://yts.ag/](https://yts.ag/)
-  - [https://yifystatus.com/](https://yifystatus.com/)
-  - [https://ytsproxies.com/](https://ytsproxies.com/)
-- [https://1337x.to/](https://1337x.to/)
+- [YTS.MX](https://yts.mx/)
+  - [YTS.LT](https://yts.lt/)
+  - [YTS.AM](https://yts.am/)
+  - [YTS.AG](https://yts.ag/)
+  - [YTS Proxies](https://ytsproxies.com/)
+- [1337X](https://1337x.to/)
 
 </details>
 
